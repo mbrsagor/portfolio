@@ -1,8 +1,8 @@
 /*
-    Author: Mbr-Shagor
+    Author: Bozlur Rosid Sagor
     Template: My Portfolio
-    Version: 1.2
-    URL: https://brshagor.wordpress.com
+    Version: 1.2.0
+    URL: https://mbrshagor.wordpress.com
 */
 
 
@@ -1784,10 +1784,10 @@ Icon for all respective meta
 }
 
 .video-introducing{
-    background: url(../images/sagor.jpg) no-repeat center center;
+    background: url(../images/sagor-cover-pic.jpg) no-repeat center center;
     -webkit-background-size: cover;
     background-size: cover;
-    min-height: 390px;
+    min-height: 475px;
     padding: 5px;
 }
 .social-media {
