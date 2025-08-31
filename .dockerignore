@@ -1,0 +1,18 @@
+# Ignore Docker-related files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Node modules (if using a build tool later)
+node_modules
+
+# OS and editor system files
+*.DS_Store
+*.swp
+*.swo
+*.log
+Thumbs.db
+
+# Git files (if you're using git)
+.git
+.gitignore
